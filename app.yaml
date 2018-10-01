@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 runtime: php55
 api_version: 1
 threadsafe: true
@@ -5,3 +6,18 @@ threadsafe: true
 handlers:
 - url: /.*
   script: helloworld.php
+=======
+runtime: php55
+api_version: 1
+
+handlers:
+# Serve images as static resources.
+- url: /(.+\.(gif|png|jpg))$
+  static_files: \1
+  upload: .+\.(gif|png|jpg)$
+  application_readable: true
+
+# Serve php scripts.
+- url: /(.+\.php)$
+  script: \1
+>>>>>>> 39c33c1ee76a66e4c9a4034be690f63d5a85fb7f

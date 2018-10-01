@@ -1,0 +1,385 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 30px 13px;
+        font-weight: 400;
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+    }
+
+    .slider-content h2 {
+        font-size: 47px;
+    }
+    .services-tiem h3 {
+        font-size: 19px;
+    }
+    .blog-box-bg p {
+        height: 60px;
+        width: 18%;
+        padding-top: 7px;
+    }
+    .blog-box-bg p span {
+        font-size: 53%;
+    }
+    .sky-text-content P {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .pages-blog p {
+        font-size: 14px;
+    }
+    p.recent-meta a,
+    .pages-blog p {
+        font-size: 13px;
+    }
+    .last-para {
+        padding-top: 10px;
+    }
+    .email-submit {
+        padding-top: 45px;
+    }
+    .blog-post ul li p {
+        margin-bottom: 0px;
+        line-height: 16px;
+        padding-top: 0px;
+    }
+    .blog-post ul li p a {
+        font-size: 12px;
+    }
+    .blog-content h3 {
+        font-size: 15px;
+    }
+    .comment-box p {
+        padding: 0 8px;
+    }
+    .email-submit input[type="submit"] {
+        width: 33%;
+    }
+    .email-submit input[type="email"],
+    .email-submit input[type="submit"] {
+        font-size: 11px;
+    }
+    .sky-text-content a {
+        padding-left: 11px;
+    }
+    .blog-post ul li {
+        margin-bottom: 37px;
+    }
+    .counter-icon i {
+        margin-left: 85px;
+    }
+    span.counter {
+        margin-left: -80px;
+    }
+    .company-address {
+        margin: 45px 0;
+        padding: 0 20px;
+    }
+    .company-address h2 {
+        font-size: 22px;
+        margin-bottom: 50px;
+    }
+    .company-address ul li p {
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .navbar-brand>img {
+        margin-top: 0px;
+    }
+    .homepage-slider {
+        height: 550px;
+    }
+    .slider-content h2 {
+        font-size: 30px;
+        line-height: 33px;
+        margin-bottom: 20px;
+    }
+    .slider-content p {
+        margin-bottom: 20px;
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .dropdown-menu>li>a {
+        padding: 10px 20px;
+    }
+    .shrink .navbar-brand img {
+    margin-top: 0px;
+    width: 80px;
+    }
+    .navbar-collapse.in {
+        overflow-y: hidden;
+    }
+    .shrink .mainmenu ul.nav.navbar-nav li a {
+        padding: 10px 0;
+    }
+    .attr-nav > ul > li.dropdown ul.dropdown-menu {
+        margin-top: -4px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        margin-top: 10px;
+    }
+    .about-img {
+        margin-top: 70px;
+    }
+    .projects-title {
+        text-align: center;
+        margin: 0px 0 20px;
+    }
+    .work-title {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .work-title p:after {
+        margin: 0 auto;
+    }
+    .work-title p {
+        right: 34px;
+    }
+    .single-project-item {
+        margin-bottom: 40px;
+    }
+    .row.projects-list .col-md-4:nth-child(1) .single-project-item {
+        height: 500px;
+    }
+    .about-counter-area {
+        padding: 70px 0;
+    }
+    .counter-icon i {
+        float: none;
+        margin-left: 0;
+        margin-top: -5px;
+    }
+    span.counter {
+        color: #000;
+        margin-left: 0;
+    }
+    .single-counter {
+        border-right: 0;
+        border-bottom: 1px solid #d5d5d5;
+        padding: 30px;
+    }
+    .single-counter.last-child {
+        border-right: 0;
+        border-bottom: 0;
+    }
+    .about-me-text h2 {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .skill-text {
+        font-style: italic;
+        position: relative;
+        right: 0;
+        left: -42px;
+        text-align: center;
+    }
+    .skill-text:after {
+        display: block;
+        content: "";
+        height: 1px;
+        width: 83px;
+        background: #bfc8e0;
+        margin: 0 auto;
+    }
+    .about-me-text {
+        margin-bottom: 60px;
+    }
+    .blog-box-bg p {
+        width: 12%;
+    }
+    .sky-single-item {
+        margin-bottom: 60px;
+    }
+    .recent-post h3,
+    .pages-blog h3 {
+        margin-bottom: 0px;
+    }
+    .footer-widget.recent-post {
+        margin-bottom: 60px;
+    }
+    .single-blog-box {
+        margin-bottom: 70px;
+    }
+    .email-submit {
+        padding-top: 45px;
+    }
+    .footer-widget.blog-post {
+        margin-top: 70px;
+    }
+    .gellery-area {
+        margin-top: 70px;
+    }
+    .blog-post ul li {
+        margin-bottom: 20px;
+    }
+    .gellery-area-bg {
+        height: 250px;
+        margin-left: 0;
+    }
+    .gellery-area .col-md-4 {
+        margin-left: 0;
+    }
+    .company-address h2 {
+        font-size: 19px;
+    }
+    .company-address {
+        padding: 0 25px;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .text-right {
+        text-align: center;
+    }
+}
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar>.container .navbar-brand,
+    .navbar>.container-fluid .navbar-brand {
+        margin-top: 15px;
+    }
+    .navbar-brand>img {
+    margin-top: 3px;
+    }
+    .dropdown-menu>li>a {
+        padding: 10px 20px;
+    }
+    .shrink .mainmenu ul.nav.navbar-nav li a {
+        padding: 10px 15px;
+    }
+    .slider-content h3 {
+        font-size: 15px;
+    }
+    .slider-content h2 {
+        font-size: 36px;
+    }
+    .slider-content p {
+        font-size: 15px;
+    }
+    .homepage-slider {
+        height: 600px;
+    }
+    .shrink .navbar-brand img {
+        margin-top: 3px;
+    }
+    .shrink nav.navbar.bootsnav {
+        border-bottom: 1px solid #fff;
+    }
+    .navbar {
+        min-height: 60px;
+    }
+    .attr-nav > ul > li > a {
+        padding: 17px 15px 15px;
+    }
+    .about-img {
+        margin-top: 50px;
+    }
+    .work-title {
+        margin-bottom: 50px;
+    }
+    .projects-title {
+        margin: 0px 0 30px;
+    }
+    .project-hover {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+        left: 0;
+        top: 0;
+    }
+    .row.projects-list .col-md-4:nth-child(1) .single-project-item {
+        height: 460px;
+    }
+    .single-project-item {
+        height: 222px;
+    }
+    .project-hover h4 {
+        position: absolute;
+        bottom: 15px;
+        left: 15px;
+    }
+    .projects-title li {
+        padding: 3px 11px;
+    }
+    .counter-icon i {
+        float: none;
+        margin-left: 0;
+    }
+    span.counter {
+        margin-left: 0;
+    }
+    .single-counter {
+        border-right: 0;
+        border-bottom: 1px solid #d5d5d5;
+        padding: 30px;
+    }
+    .single-counter.last-child {
+        border-right: 0;
+        border-bottom: 0;
+    }
+    .about-me-text {
+        margin-bottom: 70px;
+    }
+    .about-me-text h2 {
+        padding-bottom: 15px;
+    }
+    .single-blog-box {
+        margin-bottom: 70px;
+    }
+    .sky-single-item {
+        margin-bottom: 60px;
+    }
+    .recent-post h3,
+    .pages-blog h3 {
+        margin-bottom: 0px;
+    }
+    .footer-widget.recent-post {
+        margin-bottom: 60px;
+    }
+    .blog-box-bg p {
+        width: 9%;
+    }
+    .email-submit {
+        padding-top: 45px;
+    }
+    .footer-widget.blog-post {
+        margin-top: 70px;
+    }
+    .gellery-area {
+        margin-top: 70px;
+    }
+    .blog-post ul li {
+        margin-bottom: 20px;
+    }
+    .company-address {
+        margin: 45px 0;
+        padding: 0 20px;
+    }
+    .company-address h2 {
+        font-size: 22px;
+        margin-bottom: 50px;
+    }
+    .company-address ul li p {
+        font-size: 13px;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .text-right {
+        text-align: center;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {}
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
