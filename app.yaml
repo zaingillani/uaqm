@@ -14,8 +14,20 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
-- url: /assets/css
-  static_dir: assets/css
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /fonts
+  static_dir: fonts
+
+- url: /bootstrap
+  static_dir: bootstrap
+
+- url: /js
+  static_dir: js
 
 - url: /admin/.*
   script: admin.php
