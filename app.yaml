@@ -3,10 +3,11 @@ api_version: 1
 
 handlers:
 - url: /
+  script: helloworld.php
+  
+- url: /app
   script: index3.php
   
-
-
 - url: /index\.html
   script: home.php
 
