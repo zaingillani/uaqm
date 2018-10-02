@@ -3,13 +3,7 @@ api_version: 1
 
 handlers:
 - url: /
-  script: helloworld.php
-  
-- url: /app
   script: index3.php
-  
-- url: /index\.html
-  script: home.php
 
 - url: /stylesheets
   static_dir: stylesheets
@@ -29,9 +23,10 @@ handlers:
 - url: /js
   static_dir: js
 
-- url: /admin/.*
-  script: admin.php
-  login: admin
+- url: /data.csv
+  static_dir: data.csv
 
-- url: /.*
-  script: not_found.php
+- url: /test.csv
+  static_dir: test.csv
+  
+  
