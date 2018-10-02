@@ -8,22 +8,22 @@
     <title>SKY</title>
     
     <!-- FontAwesome CSS -->
-    <link rel="stylesheet" href="assets/fonts/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" />
     
     <!-- Owl Carousel -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
     
     <!-- Bootsnav Menu -->
-    <link rel="stylesheet" href="assets/css/bootsnav.css" />
+    <link rel="stylesheet" href="css/bootsnav.css" />
     
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
     
     <!-- Style CSS -->
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
     
     <!-- Responsive CSS -->
-    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" /> 
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" /> 
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -509,31 +509,31 @@ Plotly.newPlot('myDiv1', data, layout);
                 <div class="clients-slider owl-carousel">
                     <!-- START: SINGLE-CLIENT-->
                     <div class="single-client-item"> 
-                        <img src="assets/img/clients/s1.png" alt="#"> 
+                        <img src="img/clients/s1.png" alt="#"> 
                     </div>
                     <!-- END: SINGLE-CLIENT-->
                     
                     <!-- START: SINGLE-CLIENT-->
                     <div class="single-client-item"> 
-                        <img src="assets/img/clients/s2.png" alt="#"> 
+                        <img src="img/clients/s2.png" alt="#"> 
                     </div>
                     <!-- END: SINGLE-CLIENT-->
                     
                     <!-- START: SINGLE-CLIENT-->
                     <div class="single-client-item"> 
-                        <img src="assets/img/clients/s3.png" alt="#"> 
+                        <img src="img/clients/s3.png" alt="#"> 
                     </div>
                     <!-- END: SINGLE-CLIENT-->
                     
                     <!-- START: SINGLE-CLIENT-->
                     <div class="single-client-item"> 
-                        <img src="assets/img/clients/s4.png" alt="#"> 
+                        <img src="img/clients/s4.png" alt="#"> 
                     </div>
                     <!-- END: SINGLE-CLIENT-->
                     
                     <!-- START: SINGLE-CLIENT-->
                     <div class="single-client-item"> 
-                        <img src="assets/img/clients/s5.png" alt="#"> 
+                        <img src="img/clients/s5.png" alt="#"> 
                     </div>
                     <!-- END: SINGLE-CLIENT-->
                 </div>
@@ -1167,31 +1167,31 @@ heatmap6.set('gradient',heatmap6.get('gradient')?null:gradient);
     
     
     <!-- JQUERY -->
-    <script src="assets/js/jquery-2.1.3.min.js"></script>
+    <script src="js/jquery-2.1.3.min.js"></script>
     
     <!-- BOOTSTRAP -->
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
     
     <!-- BOOTSNAV -->
-    <script src="assets/js/bootsnav.js"></script>
+    <script src="js/bootsnav.js"></script>
     
     <!-- OWL CAROUSEL -->
-    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
     
     <!-- ISOTOPE -->
-    <script src="assets/js/isotope-3.0.4.min.js"></script>
+    <script src="js/isotope-3.0.4.min.js"></script>
     
     <!-- JQUARY COUNTER UP -->
-    <script src="assets/js/jquery.counterup.js"></script>
+    <script src="js/jquery.counterup.js"></script>
     
     <!-- JQUARY EASING -->
-    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
     
     <!-- WAYPOINTS JS -->
-    <script src="assets/js/waypoints.min.js"></script>
+    <script src="js/waypoints.min.js"></script>
     
     <!-- EXTERNAL SCRIPTS -->
-    <script src="assets/js/script.js"></script>
+    <script src="js/script.js"></script>
 	<script>
 	
 	function getCO(){
